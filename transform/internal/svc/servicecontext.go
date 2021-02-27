@@ -14,6 +14,6 @@ type ServiceContext struct {
 func NewServiceContext(c config.Config) *ServiceContext {
 	return &ServiceContext{
 		Config: c,
-		Model: model.NewShorturlModel(sqlx.NewMysql(c.DataSource)), // 手动代码
+		Model: model.NewShorturlModel(sqlx.NewMysql(c.DataSource),c.Cache), // 手动代码
 	}
 }

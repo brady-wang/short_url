@@ -33,12 +33,12 @@ func (l *ShortenLogic) Shorten(in *transform.ShortenReq) (*transform.ShortenResp
 	exists,_ := l.svcCtx.Model.FindByUrl(in.Url)
 	fmt.Println(exists)
 	if exists != nil{
-		return &transform.ShortenResp{Shorten: "已经存在短连接了"+exists.Shorten},nil
+		return &transform.ShortenResp{Shorten:exists.Shorten},nil
 	}
 
 	// 手动代码开始，生成短链接
 	key := hash.Md5Hex([]byte(in.Url))[:6]
-	_, err := l.svcCtx.Model.Insert(model.Shorturl{
+	_, err := l.svcCtx.Model.InsertIgnore(model.Shorturl{
 		Shorten: key,
 		Url:     in.Url,
 	})
