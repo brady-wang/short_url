@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="966dcfff-db03-4584-bafd-92f48b80970b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../bookstore/bookstore.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/rpc/model/book.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greet/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greet/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/hello/b.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/tieba/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/go.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/go.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/bee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/bee.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/beeapi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/beego_blog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/blog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pkg/linux_amd64/github.com/astaxie/beego.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/blog/blog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/blog/conf/app.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/blog/controllers/default.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/blog/controllers/hello.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/blog/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/blog/routers/router.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/blog/static/js/reload.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/blog/tests/default_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/blog/views/index.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/github.com/Echosong/beego_blog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/github.com/astaxie/beego" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/github.com/beego/bee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/github.com/go-sql-driver/mysql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/github.com/shiena/ansicolor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test.go" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1om7kXRBthcF35MJ7bZbxDnvvZy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/api" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="404" y="170" width="615" height="492" key="find.popup" timestamp="1614440768745">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="404" y="170" width="615" height="490" key="find.popup/0.23.1440.805@0.23.1440.805" timestamp="1613880684194" />
+    <state x="404" y="170" width="615" height="492" key="find.popup/0.23.1440.807@0.23.1440.807" timestamp="1614440768745" />
+  </component>
+</project>
